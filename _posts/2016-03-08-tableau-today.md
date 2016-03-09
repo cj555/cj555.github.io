@@ -1,8 +1,8 @@
+--- 
 layout: post
 title:  "Start Tableau Today"
 date:   2016-03-08 14:15:56 +0800
 categories: jekyll update
-
 ---
 
 ## Purpose
@@ -14,6 +14,9 @@ categories: jekyll update
 3. publish on tableau public
 
 4. Embed in my blog
+
+5. Check [Result](http://cj555.github.io/2016/03/08/storesales-tableau-public.html)
+
 
 
 
