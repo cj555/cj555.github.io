@@ -21,19 +21,33 @@ I'm current working as a data analyst in InfoTrie, a news sentiment company. I h
 I'm trying to be a lifelong learner. I believe that 	
 
 
-
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. 
 -- Henry Ford
 
 
-
-
-Previously I read but now I feel MOOCs are good way too. 
+Learning....
 
 
 
 
 
+Finished
+
+* Data Science Specialization, JHU, Coursera
+
+	- The Data Scientist’s Toolbox
+	- R Programming
+	- Getting and Cleaning Data
+	- Exploratory Data Analysis
+	- Reproducible Research
+	- Statistical Inference
+	- Regression Models
+	- Practical Machine Learning
+	- Developing Data Products
+	- Data Science Capstone
+
+* Introduction to Big Data with Apache Spark, Edx
+* Scalable Machine Learning, Edx
 
 ## My Goal 
 
