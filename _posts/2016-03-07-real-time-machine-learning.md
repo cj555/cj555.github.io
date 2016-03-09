@@ -48,7 +48,7 @@ First, train a random forest model using R code.
 PMML file contains all the information necessary to rebuild the machine learning model. Here we demonstrate a simple `random forest` model with 5 trees, 4 features and 1 targeted value. The `jpmml` package can convert the pmml file back to a machine learning model. After conversion, the machine learning model will stay in the memory and response once a time upon the output of storm spout.
 
 
-``` java
+```java
 
 package pmml;
 
@@ -242,7 +242,7 @@ public class PmmlDemoTopology {
 ```
 
 
-### Current Status
+###Current Status
 
 
 `pmml` package in R can convert most of ml models into pmml format. Python world is little messy, which have a lot like `pypmml`. For now, spark only provides a few APIs to export PMML file. However, PMML is not something strange but a XML file with a lot definitions of ml models. So it's possible to config one like [here](http://dmg.org/pmml/v4-1/NaiveBayes.html)
