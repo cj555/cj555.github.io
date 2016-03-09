@@ -11,7 +11,7 @@ email: chengjuan555@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Peasonal Staff
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.github.com" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  cj555
 
