@@ -6,7 +6,7 @@ categories: jekyll update
 
 ---
 
-## Purpose
+
 
 1. Try on tableau 
 
