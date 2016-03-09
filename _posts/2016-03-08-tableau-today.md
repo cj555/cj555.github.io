@@ -3,6 +3,7 @@ layout: post
 title:  "Start Tableau Today"
 date:   2016-03-08 14:15:56 +0800
 categories: jekyll update
+
 ---
 
 ## Purpose
