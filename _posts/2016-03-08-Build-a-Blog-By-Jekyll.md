@@ -2,7 +2,7 @@
 layout: post
 title:  "How to build a website hosted in Github in Windows with Jetyll"
 date:   2016-03-08 12:15:56 +0800
-categories: Tech
+categories: jekyll update
 
 ---
 
