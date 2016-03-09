@@ -27,7 +27,8 @@ Here we conduct a simple experiment that running a random forest model in storm.
 
 
 
-1. Produce a pmml file
+1. Produce a pmml file                   
+
 First, train a random forest model using R code.
 
 ```R
@@ -43,7 +44,7 @@ First, train a random forest model using R code.
 
 ```
 
-2. Run classification on Storm
+2. Run classification on Storm                
 
 PMML file contains all the information necessary to rebuild the machine learning model. Here we demonstrate a simple `random forest` model with 5 trees, 4 features and 1 targeted value. The `jpmml` package can convert the pmml file back to a machine learning model. After conversion, the machine learning model will stay in the memory and response once a time upon the output of storm spout.
 
