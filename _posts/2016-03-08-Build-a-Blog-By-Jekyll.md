@@ -1,5 +1,10 @@
-## How to build a website hosted in Github in Windows with Jetyll
+---
+layout: post
+title:  "How to build a website hosted in Github in Windows with Jetyll"
+date:   2016-03-08 12:15:56 +0800
+categories: Tech
 
+---
 
 1. Install Github desktop
 2. create a repo in github like username.github.io and open it in the github desktop
