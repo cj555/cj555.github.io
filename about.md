@@ -18,7 +18,7 @@ I'm current working as a data analyst in InfoTrie, a news sentiment company. I h
 
 ### Study 	
 
-I'm trying to be a lifelong learner. I believe that 	
+I want to be a lifelong learner. I believe that 	
 
 
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. 
@@ -27,7 +27,11 @@ I'm trying to be a lifelong learner. I believe that
 
 Learning....
 
-
+* Data Science at Scale Specialization, UW, Coursera
+	- Data Manipulation at Scale: Systems and Algorithms
+	- Practical Predictive Analytics: Models and Methods
+	- Communicating Data Science Results
+* Data Visualization and Communication with Tableau, Duck, Coursera
 
 
 
@@ -48,23 +52,6 @@ Finished
 
 * Introduction to Big Data with Apache Spark, Edx
 * Scalable Machine Learning, Edx
-
-## My Goal 
-
-
-blablabal
-
-
-I think I need a page of about me. 
-
-
-
-
-I taught myself how to program when I was ten. Since I had no introduction but only a reference manual, I thought about what could be a useful command, how I would call it in my mother language, translate it into English and then search the reference for it. Thus, I learned how to construct a programming language and how it could be improved.
-
-I have a Masters in Solid State Physics, a Ph.D. in Particle Physics and a Masters in Economics. I lived in Aachen (RWTH), Madrid (Autonoma), Paris (CNRS), Hamburg (DESY), Bologna (INFN), Tokyo (Tokyo Institute of Technology), Palo Alto (SLAC), Geneva (CERN), and Zürich. I like traveling, have been to over 60 countries, speak five languages and love outdoor sports.
-
-I worked as a researcher at CERN, Stanford University and in the financial industry (high-frequency prop trading). When I am not doing analysis of some kind, my favorite activity is touring through the Alps with friends, on a Mountainbike in the summer and a Splitboard in the winter.
 
 
 [Get in touch](chengjuan555@gmail.com)
