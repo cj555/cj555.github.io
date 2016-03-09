@@ -18,7 +18,8 @@ I'm current working as a data analyst in InfoTrie, a news sentiment company. I h
 
 ### Study 	
 
-I'm trying to be a lifelong learner. I believe that 
+I'm trying to be a lifelong learner. I believe that 	
+
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. 
 -- Henry Ford
 
