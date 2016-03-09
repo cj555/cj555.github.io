@@ -20,8 +20,13 @@ I'm current working as a data analyst in InfoTrie, a news sentiment company. I h
 
 I'm trying to be a lifelong learner. I believe that 	
 
+
+
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. 
 -- Henry Ford
+
+
+
 
 Previously I read but now I feel MOOCs are good way too. 
 
