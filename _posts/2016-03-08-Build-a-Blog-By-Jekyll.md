@@ -21,7 +21,7 @@ ruby dk.rb install
 
 4. Install jekyll
 
-```command line
+```cmd
 
 gem install bundler
 gem install jekyll
