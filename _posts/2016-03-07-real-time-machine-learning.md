@@ -6,7 +6,7 @@ categories: Tech
 
 ---
 
-## - A demo of random Forest classification on Storm
+## Demo of random Forest classification on Storm
 
 
 ### Purpose
