@@ -32,7 +32,10 @@ categories: jekyll update
 
 ```
 
+
 5. create a blog
+
+
 
 Navigate your blog folder and type in command line and done. 
 
@@ -40,6 +43,8 @@ Navigate your blog folder and type in command line and done.
 	jekyll new . --force
 
 ```
+
+
 
 
 6. Start blog in the _posts folder
