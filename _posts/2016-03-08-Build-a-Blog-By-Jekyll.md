@@ -18,28 +18,28 @@ categories: jekyll update
 	- add a folder called devkit ruby installation folder 
 	- extract dev-kit to devkit folder
 
-```cmd
-ruby dk.rb init
-ruby dk.rb install
+	```cmd
+		ruby dk.rb init
+		ruby dk.rb install
 
-```
+	```
 
 4. Install jekyll
 
-```cmd
-gem install bundler
-gem install jekyll
+	```cmd
+		gem install bundler
+		gem install jekyll
 
-```
+	```
 
 5. create a blog
 
 Navigate your blog folder and type in command line and done. 
 
-```cmd
-jekyll new . --force
+	```cmd
+		jekyll new . --force
 
-```
+	```
 
 6. Start blog in the _posts folder
 
